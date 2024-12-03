@@ -20,7 +20,7 @@ int main()
 	printf("5.In ra cac phan tu nam tren duong cheo phu\n");
 	printf("6.Sap xep duong cheo chinh theo thu tu tang dan\n");
 	printf("7.Tim kiem 1 phan tu va in ra vi tri cua phan tu trong mang\n");
-	printf("8.Thoát\n");
+	printf("8.Thoat\n");
 	printf("Moi ban nhap lua chon cua minh:");
 	scanf("%d",&choose);
 	switch(choose){	
